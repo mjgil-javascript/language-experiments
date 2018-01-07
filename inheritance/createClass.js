@@ -19,6 +19,7 @@ console.log(arr)
 console.log(arr.test)
 console.log(arr.one())
 console.log(arr.two())
+console.log(MyArray.test())
 
 
 // to get rid of the "new" requirement, use instanceof
@@ -37,3 +38,4 @@ console.log(arr2)
 console.log(arr2.test)
 console.log(arr2.one())
 console.log(arr2.two())
+console.log(MyArray2.test())
